@@ -1705,3 +1705,9 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 title: Awesome Mac application sharing recommendation -
 description: A curated list of awesome applications, softwares, tools and shiny things for Mac osx. - Awesome Mac
 -->
+
+<!-- fork-notice: start -->
+### Notice concerning this fork
+
+This repository is a fork of an upstream project. The original copyright, licenses and upstream maintainers' legal terms remain unchanged. See this fork's [Supplemental Disclaimer and Risk Notice](DISCLAIMER.md) concerning the fork maintainer's own contributions; it does not claim to bind upstream authors or override mandatory legal rights.
+<!-- fork-notice: end -->
